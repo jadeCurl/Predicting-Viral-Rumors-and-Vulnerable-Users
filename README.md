@@ -8,7 +8,7 @@ Official implementation of paper "[Predicting Viral Rumors and Vulnerable Users 
 2. The three tasks are learned jointly via inductive GNN and hierarchical graph pooling.
 3. The framework is trained in two multi-task settings to handle training conflicts.
    
-![Overview of the proposed multi-task model.](https://github.com/jadeCurl/Predicting-Viral-Rumors-and-Vulnerable-Users/blob/main/pics/model.pdf)
+![Overview of the proposed multi-task model.](https://github.com/jadeCurl/Predicting-Viral-Rumors-and-Vulnerable-Users/blob/main/pics/model.png)
 
 ## Datasets
 
