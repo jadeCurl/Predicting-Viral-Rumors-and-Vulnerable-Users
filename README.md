@@ -12,7 +12,7 @@ Official implementation of paper "[Predicting Viral Rumors and Vulnerable Users 
 
 ## Datasets
 
-For our dataset, we have built upon two publicly available datasets: [TWITTER](https://aclanthology.org/P17-1066/) and [WEIBO](https://dl.acm.org/doi/10.5555/3061053.3061153). These original datasets were initially created for rumor detection, featuring annotations that categorize data at the graph level as either rumor or non-rumor. To adapt these datasets for our specific research needs, we have further processed them to derive two additional labels: 'virality' and 'vulnerability'. The reconstructed datasets can be found in the [datasets]() folder.
+For our dataset, we have built upon two publicly available datasets: [TWITTER](https://aclanthology.org/P17-1066/) and [WEIBO](https://dl.acm.org/doi/10.5555/3061053.3061153). These original datasets were initially created for rumor detection, featuring annotations that categorize data at the graph level as either rumor or non-rumor. To adapt these datasets for our specific research needs, we have further processed them to derive two additional labels: 'virality' and 'vulnerability'. The reconstructed datasets can be found in the [datasets](https://github.com/jadeCurl/Predicting-Viral-Rumors-and-Vulnerable-Users/tree/main/datasets) folder.
 
 ## Models
 
