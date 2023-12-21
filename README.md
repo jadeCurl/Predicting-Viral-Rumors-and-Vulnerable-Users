@@ -16,6 +16,9 @@ For our dataset, we have built upon two publicly available datasets: [TWITTER](h
 
 ## Models
 
+# Training and Inferring
+   python run.py --time 0.8
+   
 TBD
 
 ## Citation
