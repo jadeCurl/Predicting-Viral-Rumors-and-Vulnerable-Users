@@ -32,7 +32,7 @@ if __name__ == "__main__":
 	dp = 0.2
 	step = 0.4
 	node_features = 64
-	hid_features = 32
+	hid_features = 64
 	out_features = 64
 	activation = F.relu
 	pool_size = 50
