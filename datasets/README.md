@@ -1,6 +1,6 @@
 ## Quick Start
 ### Download the Dataset:
 
-Download from Dropbox: [Datasets](https://www.dropbox.com/scl/fo/wi1mgqxlwhhgiitp0s5se/h?rlkey=aw7ont37uy2dvterdxntm8knu&dl=0)
+Download from Google Drive: [Datasets](https://drive.google.com/drive/folders/1eWkE9OTpezI7GpwG2Wf7TED7F5RvJve6?usp=drive_link)
 
 Unzip the File: After downloading, unzip the file to access the dataset.
